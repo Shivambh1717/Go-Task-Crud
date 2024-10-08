@@ -16,7 +16,4 @@ A simple RESTful API built with Go to manage tasks. Each task has a title, descr
 - Go (Golang)
 - Gorilla Mux (for routing)
 
-## Getting Started
 
-1. **Clone the repository:**
-   ```bash
